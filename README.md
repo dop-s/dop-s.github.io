@@ -53,4 +53,4 @@ javascript, bootstrap.
 	
 [<img src="img/Medium.png" width="100">](https://medium.com/@daniloopro)
 	
-[<img src="img/git-v2.png" width="100">](https://github.com/DaniloOPinheiro)
+[<img src="img/Git-v1.png" width="100">](https://github.com/DaniloOPinheiro)
