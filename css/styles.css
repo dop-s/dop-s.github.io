@@ -29,13 +29,18 @@ body {
 
 #wrapper img {
   border-radius: 10%;
-  /* border: 1px solid #008ab2; */
+  width: 190px;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 
 #wrapper h1 {
   font-size: 42px;
   font-weight: 600;
   margin-top: 30px;
+  text-align: center;
 }
 
 #wrapper h2 {
@@ -43,11 +48,12 @@ body {
   font-weight: 500;
   margin-top: 5px;
   opacity: 0.6;
+  text-align: center;
 }
 
 #wrapper p {
-  text-align: center;
-  max-width: 500px;
+  text-align: justify;
+  max-width: 600px;
   opacity: 0.8;
   font-size: 20px;
   line-height: 1.6;
@@ -61,6 +67,7 @@ body {
 }
 
 #wrapper .links {
+  position: fixed;
   margin-top: 15px;
 }
 
@@ -74,4 +81,21 @@ body {
 
 #wrapper .links a:hover {
   transition: color 0.2s;
+}
+
+#seta img{
+  animation: ani-ring 2s ease infinite;
+  width: 50px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container .panel-footer{
+  display: block;
+  margin-top: 30px;
+  margin-left: 850px;
+  margin-right: 600px;
 }
