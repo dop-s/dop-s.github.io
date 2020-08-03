@@ -27,7 +27,7 @@ Maio - 2020, Polo: Embu-Guaçu.
 * 
 
 ## Propósitos ou Hobs
-Um dos meus objetivos é a área da música, porém tem sido um dos desafios, mais desafiadores. Enquanto isso eu busco minhas melhores aptdões na área da tecnologias, coachings, desenvolvimento pessoa, como artes marciais(jiu-jitsu), etc.
+Um dos meus objetivos é a área da música, porém tem sido um dos desafios, mais desafiadores. Enquanto isso eu busco minhas melhores aptdões na área da tecnologias, coachings, desenvolvimento pessoal, como artes marciais(jiu-jitsu), etc.
 
 ## Projetos Profissional e Freelances
 [WCA](https://www.wca-ec.com.br/)
