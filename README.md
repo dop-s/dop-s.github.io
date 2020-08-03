@@ -47,10 +47,10 @@ javascript, bootstrap.
 
 [<img src="img/Twitter.png" align="left" width="100">](https://twitter.com/dan_opinheiro)
 	
-[<img src="img/Instagram.png" width="100">](https://www.instagram.com/musiccantor_danpinheiro/)
+[<img src="img/Instagram.png" align="left" width="100">](https://www.instagram.com/musiccantor_danpinheiro/)
 
-[<img src="img/vk.png" width="100">](https://vk.com/id605472308)
+[<img src="img/vk.png" align="left" width="100">](https://vk.com/id605472308)
 	
-[<img src="img/Medium.png" width="100">](https://medium.com/@daniloopro)
+[<img src="img/Medium.png" align="left" width="100">](https://medium.com/@daniloopro)
 	
 [<img src="img/Git-v1.png" width="100">](https://github.com/DaniloOPinheiro)
