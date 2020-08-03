@@ -45,7 +45,7 @@ javascript, bootstrap.
 
 ## Rede Social
 
-[<img src="img/Twitter.png" width="100">](https://twitter.com/dan_opinheiro)
+[<img src="img/Twitter.png" align="left" width="100">](https://twitter.com/dan_opinheiro)
 	
 [<img src="img/Instagram.png" width="100">](https://www.instagram.com/musiccantor_danpinheiro/)
 
