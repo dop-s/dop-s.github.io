@@ -24,24 +24,21 @@ Maio - 2020, Polo: Embu-Guaçu.
 
 ## Experiencia Profissional
 * [WCA](https://www.wca-ec.com.br/) Soluções de Inteligência Comercial, Programador Jr fullstack, Mar 2020 – Abr 2020, Santa Cruz, São Paulo
-* 
+* [Qintess](https://www.qintess.com/)
+* [Resource](https://www.resourceit.com/)
 
 ## Propósitos ou Hobs
 Um dos meus objetivos é a área da música, porém tem sido um dos desafios, mais desafiadores. Enquanto isso eu busco minhas melhores aptdões na área da tecnologias, coachings, desenvolvimento pessoa, como artes marciais(jiu-jitsu), etc.
 
 ## Projetos Profissional e Freelances
 [WCA](https://www.wca-ec.com.br/)
-* Sistema Interno : Net Core 2.1 (Core 3.1) MVC, DDD, Ninjects, RabbitMQ, LINQ, EF, backend: C#,
-JavaScript. frontend: html(razor), css, boostrap, jQuery.
+* Sistema Interno : Net Core 2.1 (Core 3.1) MVC, DDD, Ninjects, RabbitMQ, LINQ, EF, backend: C#, JavaScript. frontend: html(razor), css, boostrap, jQuery.
 
 [Qintess](https://www.resourceit.com/)
 * OpenApi; Net Core 2.2, backend C#. MockServer, MVC, DDD.
 
 [Resource](https://www.resourceit.com/)
-* Migração de sistema em VB6 para análise e levantamento de requisitos funcionais e regras de negócio para
-desenvolvimento do Sistema voltado a Controle Bancário;
-Ferramenta: VISUAL STUDIO 2017. Utilizando: c#.net MVC, asp.net webapi, DDD, EF, html, css, jquery,
-javascript, bootstrap.
+* Migração de sistema em VB6 para análise e levantamento de requisitos funcionais e regras de negócio para desenvolvimento do Sistema voltado a Controle Bancário; Ferramenta: VISUAL STUDIO 2017. Utilizando: c#.net MVC, asp.net webapi, DDD, EF, html, css, jquery, javascript, bootstrap.
 
 ## Rede Social
 
