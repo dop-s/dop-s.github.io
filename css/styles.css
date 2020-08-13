@@ -30,12 +30,12 @@
 /* Home-Page */
 body{
     
-    width: 100vw;
+    /* width: 100vw;
     height: 100vh;
 
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center; */
     
     margin: 0;
     padding: 0;
@@ -59,7 +59,7 @@ body{
     margin-left: auto;
     margin-right: auto;
     
-    background: #fff url("../img/dop-abstrato.PNG") no-repeat;
+    background: #fff url("../img/dop-abstrato.png") no-repeat;
     background-size: cover;
     width: 209.55px;
     height: 213.29px;
@@ -140,9 +140,46 @@ body{
     mix-blend-mode: normal;
     transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
+.hvr-buzz-out #dop-abstrato a{
+    margin: 0 0 0 10rem;
+    
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    margin: auto;
+    
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+
+h4{
+    margin: 0 0 0 5rem;
+    
+    display: block;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+p{
+    margin: 0 0 0 0.5rem;
+    
+    display: block;
+    justify-content: center;
+    align-items: flex-end;
+}
+
 /* Footer */
-#page-main .container .row  footer{
-    margin-left: 100px;
+footer{
+    margin: 0 0 0 9rem;
+    
+    display: block;
+    justify-content: center;
+    align-items: center;
 }
 
 /* git */
