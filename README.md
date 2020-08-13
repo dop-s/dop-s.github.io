@@ -44,10 +44,10 @@ Um dos meus objetivos é a área da música, porém tem sido um dos desafios, ma
 
 [<img src="img/Twitter.png" width="100">](https://twitter.com/dan_opinheiro)
 	
-[<img src="img/Instagram.png" width="100">](https://www.instagram.com/musiccantor_danpinheiro/)
+[<img src="img/Instagram.png" width="100" align="left">](https://www.instagram.com/musiccantor_danpinheiro/)
 
-[<img src="img/vk.png" width="100">](https://vk.com/id605472308)
+[<img src="img/vk.png" width="100" align="left">](https://vk.com/id605472308)
 	
-[<img src="img/Medium.png" width="100">](https://medium.com/@daniloopro)
+[<img src="img/Medium.png" width="100" align="left">](https://medium.com/@daniloopro)
 	
-[<img src="img/Git-v1.png" width="100">](https://github.com/DaniloOPinheiro)
+[<img src="img/Git-v1.png" width="100" align="left">](https://github.com/DaniloOPinheiro)
