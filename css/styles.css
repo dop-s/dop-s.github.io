@@ -53,13 +53,13 @@ body{
     margin-right: auto;
 }
 
-#page-main .container .row #dop-abstrato {
+#page-main .container .row #dop-avanade {
     display: block;
     margin-top: 20px;
     margin-left: auto;
     margin-right: auto;
     
-    background: #fff url("../img/dop-abstrato.jpg") no-repeat;
+    background: #fff url("../img/drop-avanade.png") no-repeat;
     background-size: cover;
     width: 209.55px;
     height: 213.29px;
